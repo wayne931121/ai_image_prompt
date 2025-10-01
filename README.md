@@ -14,3 +14,6 @@ This is a image generate by grok, use this prompt: <br>
 https://github.com/wayne931121/ai_image_prompt/blob/main/rick%20you
 <img src="https://github.com/user-attachments/assets/e534338c-31d5-45b6-9f1c-3cfe62b8da31">
 
+This is a image generate by grok, use this prompt: <br>
+https://github.com/wayne931121/ai_image_prompt/blob/main/%E7%99%BD%E8%89%B2%20%E9%9B%AA%20%E8%9D%B4%E8%9D%B6
+<img src="https://github.com/user-attachments/assets/06b0976a-e0c3-4d20-9986-1087bbcb7d76">
