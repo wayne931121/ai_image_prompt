@@ -11,7 +11,8 @@
 
 # Example
 This is a image generate by grok, use this prompt: <br>
-https://github.com/wayne931121/ai_image_prompt/blob/main/rick%20you
+https://github.com/wayne931121/ai_image_prompt/blob/main/rick%20you<br>
+https://x.com/i/grok/share/nbrNIlKQxTvFOG9ce4HAokdGQ
 <img src="https://github.com/user-attachments/assets/e534338c-31d5-45b6-9f1c-3cfe62b8da31">
 
 This is a image generate by grok, use this prompt: <br>
